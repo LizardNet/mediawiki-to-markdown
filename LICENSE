@@ -1,0 +1,15 @@
+LIZARDNET MEDIAWIKI-TO-MARKDOWN
+by FastLizard4 et al <https://gerrit.fastlizard4.org/r/#/admin/groups/18,members>
+
+Copyright (C) 2013 by FastLizard4 et al.  Some rights reserved.
+
+License GPLv3+: GNU General Public License version 3 or later (at your choice): <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it at your will provided that your redistribution,
+with or without modifications, is also licensed under the GNU GPL.
+
+There is NO WARRANTY FOR THIS SOFTWARE to the extent permitted by law.
+
+This is an open source project.  The source Git repositories, which you are welcome to contribute to, can be
+found here: <https://git.fastlizard4.org/gitblit/summary/?r=mediawiki-to-markdown.git>
+
+Gerrit Code Review for the project: <https://gerrit.fastlizard4.org/r/#/q/project:mediawiki-to-markdown,n,z>
